@@ -1,0 +1,3 @@
+delete AUTHOR;
+delete BOOK;
+
